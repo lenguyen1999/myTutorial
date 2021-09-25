@@ -1,0 +1,4 @@
+main.pbi: \
+  D:\myTutorial\Libraries\C_C++\Embedded_C99\Microcontroller\0_common\include\define.h \
+  D:\myTutorial\Libraries\C_C++\Embedded_C99\Microcontroller\stm32f103xx\driver\include\rcc.h \
+  D:\myTutorial\Libraries\C_C++\Embedded_C99\Microcontroller\stm32f103xx\test_lib\stm32f103c8_blinkLed\source\main.c
