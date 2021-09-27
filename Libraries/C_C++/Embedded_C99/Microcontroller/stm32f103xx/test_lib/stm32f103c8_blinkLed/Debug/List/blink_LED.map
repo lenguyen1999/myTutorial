@@ -1,6 +1,6 @@
 ###############################################################################
 #
-# IAR ELF Linker V8.40.1.212/W32 for ARM                  08/Sep/2021  11:33:04
+# IAR ELF Linker V8.40.1.212/W32 for ARM                  25/Sep/2021  22:56:35
 # Copyright 2007-2019 IAR Systems AB.
 #
 #    Output file  =
@@ -8,7 +8,7 @@
 #    Map file     =
 #        D:\myTutorial\Libraries\C_C++\Embedded_C99\Microcontroller\stm32f103xx\test_lib\stm32f103c8_blinkLed\Debug\List\blink_LED.map
 #    Command line =
-#        -f C:\Users\lenguyen\AppData\Local\Temp\EWA342.tmp
+#        -f C:\Users\lenguyen\AppData\Local\Temp\EW4554.tmp
 #        (D:\myTutorial\Libraries\C_C++\Embedded_C99\Microcontroller\stm32f103xx\test_lib\stm32f103c8_blinkLed\Debug\Obj\main.o
 #        --no_out_extension -o
 #        D:\myTutorial\Libraries\C_C++\Embedded_C99\Microcontroller\stm32f103xx\test_lib\stm32f103c8_blinkLed\Debug\Exe\blink_LED.out
